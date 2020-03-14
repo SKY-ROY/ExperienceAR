@@ -1,3 +1,3 @@
 # ExperienceAR
 AR Experiences
-# APK: BUILD/ExperienceAR.apk
+# APK: https://github.com/SKY-ROY/ExperienceAR/blob/master/BUILD/ExperienceAR.apk
