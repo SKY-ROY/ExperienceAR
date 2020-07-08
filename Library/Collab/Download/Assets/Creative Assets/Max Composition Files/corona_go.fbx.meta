@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: a61deb4d585822341920b5479c37c17e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Max_1:polySurface1
+    100004: polySurface1
+    100006: polySurface10
+    100008: polySurface11
+    100010: polySurface13
+    100012: polySurface14
+    100014: polySurface15
+    100016: polySurface19
+    100018: polySurface2
+    100020: polySurface20
+    100022: polySurface24
+    100024: polySurface25
+    100026: polySurface26
+    100028: polySurface27
+    100030: polySurface29
+    100032: polySurface3
+    100034: polySurface3 1
+    100036: polySurface4
+    100038: polySurface5
+    100040: polySurface6
+    100042: polySurface7
+    100044: polySurface8
+    100046: polySurface9
+    100048: QuickRigCharacter_Head
+    100050: QuickRigCharacter_Hips
+    100052: QuickRigCharacter_LeftArm
+    100054: QuickRigCharacter_LeftFoot
+    100056: QuickRigCharacter_LeftForeArm
+    100058: QuickRigCharacter_LeftHand
+    100060: QuickRigCharacter_LeftLeg
+    100062: QuickRigCharacter_LeftShoulder
+    100064: QuickRigCharacter_LeftToeBase
+    100066: QuickRigCharacter_LeftUpLeg
+    100068: QuickRigCharacter_Neck
+    100070: QuickRigCharacter_Reference
+    100072: QuickRigCharacter_RightArm
+    100074: QuickRigCharacter_RightFoot
+    100076: QuickRigCharacter_RightForeArm
+    100078: QuickRigCharacter_RightHand
+    100080: QuickRigCharacter_RightLeg
+    100082: QuickRigCharacter_RightShoulder
+    100084: QuickRigCharacter_RightToeBase
+    100086: QuickRigCharacter_RightUpLeg
+    100088: QuickRigCharacter_Spine
+    100090: QuickRigCharacter_Spine1
+    100092: QuickRigCharacter_Spine2
+    100094: transform1
+    100096: transform10
+    100098: transform11
+    100100: transform13
+    100102: transform14
+    100104: transform2
+    100106: transform3
+    100108: transform4
+    100110: transform5
+    100112: transform6
+    100114: transform7
+    100116: transform8
+    100118: transform9
+    400000: //RootNode
+    400002: Max_1:polySurface1
+    400004: polySurface1
+    400006: polySurface10
+    400008: polySurface11
+    400010: polySurface13
+    400012: polySurface14
+    400014: polySurface15
+    400016: polySurface19
+    400018: polySurface2
+    400020: polySurface20
+    400022: polySurface24
+    400024: polySurface25
+    400026: polySurface26
+    400028: polySurface27
+    400030: polySurface29
+    400032: polySurface3
+    400034: polySurface3 1
+    400036: polySurface4
+    400038: polySurface5
+    400040: polySurface6
+    400042: polySurface7
+    400044: polySurface8
+    400046: polySurface9
+    400048: QuickRigCharacter_Head
+    400050: QuickRigCharacter_Hips
+    400052: QuickRigCharacter_LeftArm
+    400054: QuickRigCharacter_LeftFoot
+    400056: QuickRigCharacter_LeftForeArm
+    400058: QuickRigCharacter_LeftHand
+    400060: QuickRigCharacter_LeftLeg
+    400062: QuickRigCharacter_LeftShoulder
+    400064: QuickRigCharacter_LeftToeBase
+    400066: QuickRigCharacter_LeftUpLeg
+    400068: QuickRigCharacter_Neck
+    400070: QuickRigCharacter_Reference
+    400072: QuickRigCharacter_RightArm
+    400074: QuickRigCharacter_RightFoot
+    400076: QuickRigCharacter_RightForeArm
+    400078: QuickRigCharacter_RightHand
+    400080: QuickRigCharacter_RightLeg
+    400082: QuickRigCharacter_RightShoulder
+    400084: QuickRigCharacter_RightToeBase
+    400086: QuickRigCharacter_RightUpLeg
+    400088: QuickRigCharacter_Spine
+    400090: QuickRigCharacter_Spine1
+    400092: QuickRigCharacter_Spine2
+    400094: transform1
+    400096: transform10
+    400098: transform11
+    400100: transform13
+    400102: transform14
+    400104: transform2
+    400106: transform3
+    400108: transform4
+    400110: transform5
+    400112: transform6
+    400114: transform7
+    400116: transform8
+    400118: transform9
+    2100000: Max_1_lambert20SG1
+    2100002: Max_1_lambert21SG1
+    4300000: polySurface1
+    4300002: polySurface13
+    4300004: polySurface14
+    4300006: polySurface15
+    4300008: polySurface19
+    4300010: polySurface20
+    4300012: polySurface24
+    4300014: polySurface25
+    4300016: polySurface26
+    4300018: polySurface29
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface1
+    13700002: polySurface13
+    13700004: polySurface14
+    13700006: polySurface15
+    13700008: polySurface19
+    13700010: polySurface20
+    13700012: polySurface24
+    13700014: polySurface25
+    13700016: polySurface26
+    13700018: polySurface29
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
