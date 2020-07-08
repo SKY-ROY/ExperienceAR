@@ -9,12 +9,10 @@ Critical Requirement: ARCore Services by GOOGLE
 Login Screen
 <img src="Builds/Screenshots/1.jpg">
 Register Screen
-<img src="Builds/Screenshots/2">
+<img src="Builds/Screenshots/2.jpg">
 AR-enabled app prompt
-<img src="Builds/Screenshots/3">
+<img src="Builds/Screenshots/3.jpg">
 Content List
-<img src="Builds/Screenshots/4">
+<img src="Builds/Screenshots/4.jpg">
 Plane detection AR session
-<img src="Builds/Screenshots/5">
-<img src="Builds/Screenshots/6">
-<img src="Builds/Screenshots/7"> 
+<img src="Builds/Screenshots/5.jpg"><img src="Builds/Screenshots/6.jpg"><img src="Builds/Screenshots/7.jpg"> 
