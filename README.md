@@ -7,7 +7,7 @@ Critical Requirement: ARCore Services by GOOGLE
 
 # Screenshots:
 Login Screen
-<img src="Builds/Screenshots/1">
+<img src="Builds/Screenshots/1.jpg">
 Register Screen
 <img src="Builds/Screenshots/2">
 AR-enabled app prompt
