@@ -6,6 +6,15 @@ Critical Requirement: ARCore Services by GOOGLE
 # APK: https://github.com/SKY-ROY/ExperienceAR/blob/master/BUILD/ExperienceAR.apk
 
 # Screenshots:
-<img src="Builds/Screenshots/1"><img src="Builds/Screenshots/2"><img src="Builds/Screenshots/3">
-<img src="Builds/Screenshots/4"><img src="Builds/Screenshots/5"><img src="Builds/Screenshots/6">
+Login Screen
+<img src="Builds/Screenshots/1">
+Register Screen
+<img src="Builds/Screenshots/2">
+AR-enabled app prompt
+<img src="Builds/Screenshots/3">
+Content List
+<img src="Builds/Screenshots/4">
+Plane detection AR session
+<img src="Builds/Screenshots/5">
+<img src="Builds/Screenshots/6">
 <img src="Builds/Screenshots/7"> 
