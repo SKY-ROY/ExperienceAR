@@ -1,14 +1,11 @@
 # ExperienceAR
 Minimum Android API level: Android 7.0 (API level 24)
 Critical Requirement: ARCore Services by GOOGLE
-#
 
 # APK: https://bit.ly/2Cd6AQW
-#
 
 # Target Image:
 <img src="Assets/ExperienceAR/MyImgDatabase/2000INRfront.jpg">
-#
 
 # Screenshots:
 *Login Screen*
